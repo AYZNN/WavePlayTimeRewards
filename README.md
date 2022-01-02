@@ -7,6 +7,7 @@
 
 **Showcase**
 > Watch the [Showcase](https://www.youtube.com/watch?v=FnnDBRIFGwI) !
+![2022-01-02 22-24-32](https://user-images.githubusercontent.com/67419505/147890555-d813851e-31e7-46da-8105-4d897db16245.gif)
 
 **Discord**
 > https://discord.gg/5x2kXXkZTR
