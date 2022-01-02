@@ -6,7 +6,9 @@
 > Every features is configurable and can be adapted to all your tastes! 
 
 **Showcase**
+
 ![2022-01-02 22-24-32](https://user-images.githubusercontent.com/67419505/147890555-d813851e-31e7-46da-8105-4d897db16245.gif)
+
 > Watch the [Showcase](https://www.youtube.com/watch?v=FnnDBRIFGwI) !
 
 **Discord**
