@@ -17,16 +17,16 @@
 **Features**
 * resmon : 0.0ms Closed, 0.2ms opened
 * Looped Rewards
- * You can give items,weapons,vehicles,bank money,cash money, black money.
- * You can configure the count/ammos/amount you want to give.
- * You can configure the percentage of chance of each reward.
- * You can configure the percentage of chance to win nothing.
- * New Players
-  * You can change the required number of minutes of playing time for new players
-  * You can change the maximum playing time being considered as a new player
- * Gives a random reward among those configured every x minutes of playing time.
+  * You can give items,weapons,vehicles,bank money,cash money, black money.
+  * You can configure the count/ammos/amount you want to give.
+  * You can configure the percentage of chance of each reward.
+  * You can configure the percentage of chance to win nothing.
+  * New Players
+    * You can change the required number of minutes of playing time for new players
+    * You can change the maximum playing time being considered as a new player
+  * Gives a random reward among those configured every x minutes of playing time.
 * Play Time Rewards
- * gives the reward of your choice as soon as the player reaches the set amount of play time
+  * gives the reward of your choice as soon as the player reaches the set amount of play time
 * Configurable number of reward draws to be more random
 * Give a reward to all players on the server from console or whitelisted player
 * Based on client side database aka kvp
