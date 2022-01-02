@@ -1,4 +1,5 @@
-![miniature](https://user-images.githubusercontent.com/67419505/147802874-73ac3d84-fa5f-4e83-ade0-04754049aa95.png)
+![image](https://user-images.githubusercontent.com/67419505/147890468-a956ed03-0fcd-4481-bf46-2b38ca731858.png)
+
 
 **Description**
 > WavePlayTimeRewards is an amazing ESX & QBUS ready resource, allowing your players to be rewarded for their playtime on your server.
